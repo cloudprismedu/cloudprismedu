@@ -4,27 +4,13 @@ CloudPrism Technologies Offering Master's In Cloud Computing & DevOps Engineer (
 As part of MCCDE Course you will learn following technologies.👋
 
 <a href="https://aws.amazon.com" target="blank">
-<img align="center" src="/course_images/aws.webp" alt="AWS" height="100" width="100" />
-</a>
-<a href="https://www.docker.com/" target="blank">
-<img align="center" src="/course_images/Docker.webp" alt="Docker" height="80" width="80" />
-</a>
-<a href="https://www.jenkins.io" target="blank">
-<img align="center" src="/course_images/Jenkins.webp" alt="Jenkins" height="100" width="100" />
-</a>
-<a href="https://kubernetes.io" target="blank">
-<img align="center" src="/course_images/Kubernetes.png" alt="Kubernetes" height="100" width="100" />
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="60" width="60" />
 </a>
 <a href="https://azure.microsoft.com/en-in/" target="blank">
-<img align="center" src="/course_images/microsoft-azure.png" alt="Azure" height="100" width="100" />
+<img align="center" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" height="40" width="40" />
 </a>
-
-
-
-
-
-<a href="https://aws.amazon.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" width="40" />
+<a href="https://kubernetes.io" target="blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" height="40" width="40" />
 </a>
 <a href="https://www.docker.com/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="40" width="40" />
@@ -32,9 +18,6 @@ As part of MCCDE Course you will learn following technologies.👋
 <a href="https://www.jenkins.io" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" height="40" width="40" />
 </a>
-<a href="https://kubernetes.io" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" height="40" width="40" />
-</a>
-<a href="https://azure.microsoft.com/en-in/" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" height="40" width="40" />
+<a href="https://grafana.com/" target="blank">
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" alt="Jenkins" height="40" width="40" />
 </a>

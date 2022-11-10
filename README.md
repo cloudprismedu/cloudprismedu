@@ -27,3 +27,6 @@ As part of MCCDE Course you will learn following technologies.👋
 <a href="https://www.terraform.io/" target="blank">
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" alt="Jenkins" height="40" width="40" />
 </a>
+<a href="https://helm.sh/" target="blank">
+<img align="center" src="/course_images/Helm.jpg" alt="Jenkins" height="40" width="40" />
+</a>

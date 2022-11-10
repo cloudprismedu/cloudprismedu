@@ -19,7 +19,7 @@ As part of MCCDE Course you will learn following technologies.👋
 <img align="center" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" height="50" width="50" />
 </a>
 <a href="https://www.jetbrains.com/teamcity/" target="blank">
-<img align="center" src="/course_images/teamcity.png" alt="teamcity" height="50" width="50" />
+<img align="center" src="/course_images/Terraform_Logo.svg" alt="teamcity" height="50" width="50" />
 </a>
 <a href="https://grafana.com/" target="blank">
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" height="50" width="50" />

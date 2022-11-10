@@ -40,5 +40,5 @@ As part of MCCDE Course you will learn following technologies.👋
 <img align="center" src="/course_images/loki.png" alt="loki" height="50" width="50" />
 </a>
 <a href="https://www.linux.org/" target="blank">
-<img align="center" src="/course_images/linux-administration.png" alt="loki" height="50" width="50" />
+<img align="center" src="/course_images/Tux.svg.png" alt="linux" height="50" width="50" />
 </a>

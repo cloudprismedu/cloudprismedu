@@ -39,3 +39,6 @@ As part of MCCDE Course you will learn following technologies.👋
 <a href="https://grafana.com/oss/loki/" target="blank">
 <img align="center" src="/course_images/loki.png" alt="loki" height="50" width="50" />
 </a>
+<a href="https://www.linux.org/" target="blank">
+<img align="center" src="/course_images/linux-administration.png" alt="loki" height="50" width="50" />
+</a>

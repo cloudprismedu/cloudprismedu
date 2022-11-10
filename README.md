@@ -21,3 +21,9 @@ As part of MCCDE Course you will learn following technologies.👋
 <a href="https://grafana.com/" target="blank">
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" alt="Jenkins" height="40" width="40" />
 </a>
+<a href="https://prometheus.io/" target="blank">
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Jenkins" height="40" width="40" />
+</a>
+<a href="https://www.terraform.io/" target="blank">
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" alt="Jenkins" height="40" width="40" />
+</a>

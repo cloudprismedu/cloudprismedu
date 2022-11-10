@@ -7,7 +7,7 @@ As part of MCCDE Course you will learn following technologies.👋
 <img align="center" src="/course_images/Amazon_Web_Services-Logo.wine.svg" alt="AWS" height="60" width="60" />
 </a>
 <a href="https://azure.microsoft.com/en-in/" target="blank">
-<img align="center" src="/course_images/Microsoft_Azure_Logo.svg.png" alt="Azure" height="40" width="40" />
+<img align="center" src="/course_images/Microsoft_Azure-Logo.wine.svg" alt="Azure" height="40" width="40" />
 </a>
 <a href="https://kubernetes.io" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" height="40" width="40" />

@@ -36,3 +36,6 @@ As part of MCCDE Course you will learn following technologies.👋
 <a href="https://github.com/" target="blank">
 <img align="center" src="/course_images/GitHub-Logo.wine.svg" alt="GitHub" height="50" width="50" />
 </a>
+<a href="https://grafana.com/oss/loki/" target="blank">
+<img align="center" src="/course_images/loki.png" alt="loki" height="50" width="50" />
+</a>

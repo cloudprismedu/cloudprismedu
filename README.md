@@ -31,5 +31,8 @@ As part of MCCDE Course you will learn following technologies.👋
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" height="50" width="50" />
 </a>
 <a href="https://helm.sh/" target="blank">
-<img align="center" src="/course_images/helm.png" alt="Helm" height="40" width="40" />
+<img align="center" src="/course_images/helm.png" alt="Helm" height="50" width="50" />
+</a>
+<a href="https://github.com/" target="blank">
+<img align="center" src="/course_images/GitHub-Logo.wine.svg" alt="GitHub" height="50" width="50" />
 </a>

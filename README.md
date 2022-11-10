@@ -19,17 +19,17 @@ As part of MCCDE Course you will learn following technologies.👋
 <img align="center" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" height="50" width="50" />
 </a>
 <a href="https://www.jetbrains.com/teamcity/" target="blank">
-<img align="center" src="/course_images/teamcity.png" alt="Jenkins" height="50" width="50" />
+<img align="center" src="/course_images/teamcity.png" alt="teamcity" height="50" width="50" />
 </a>
 <a href="https://grafana.com/" target="blank">
-<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" alt="Jenkins" height="50" width="50" />
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" height="50" width="50" />
 </a>
 <a href="https://prometheus.io/" target="blank">
-<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Jenkins" height="50" width="50" />
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Prometheus" height="50" width="50" />
 </a>
 <a href="https://www.terraform.io/" target="blank">
-<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" alt="Jenkins" height="50" width="50" />
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" height="50" width="50" />
 </a>
 <a href="https://helm.sh/" target="blank">
-<img align="center" src="/course_images/Helm.jpg" alt="Jenkins" height="40" width="40" />
+<img align="center" src="/course_images/helm.png" alt="Helm" height="40" width="40" />
 </a>

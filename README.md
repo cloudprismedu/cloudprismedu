@@ -4,19 +4,19 @@ CloudPrism Technologies Offering Master's In Cloud Computing & DevOps Engineer (
 As part of MCCDE Course you will learn following technologies.👋
 
 <a href="https://aws.amazon.com" target="blank">
-<img align="center" src="/course_images/aws.webp" alt="AWS" height="80" width="80" />
+<img align="center" src="/course_images/aws.webp" alt="AWS" height="100" width="100" />
 </a>
 <a href="https://www.docker.com/" target="blank">
 <img align="center" src="/course_images/Docker.webp" alt="Docker" height="80" width="80" />
 </a>
 <a href="https://www.jenkins.io" target="blank">
-<img align="center" src="/course_images/Jenkins.webp" alt="Jenkins" height="80" width="80" />
+<img align="center" src="/course_images/Jenkins.webp" alt="Jenkins" height="100" width="100" />
 </a>
 <a href="https://kubernetes.io" target="blank">
-<img align="center" src="/course_images/Kubernetes.png" alt="Kubernetes" height="80" width="80" />
+<img align="center" src="/course_images/Kubernetes.png" alt="Kubernetes" height="100" width="100" />
 </a>
 <a href="https://azure.microsoft.com/en-in/" target="blank">
-<img align="center" src="/course_images/microsoft-azure.png" alt="Azure" height="80" width="80" />
+<img align="center" src="/course_images/microsoft-azure.png" alt="Azure" height="100" width="100" />
 </a>
 
 

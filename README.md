@@ -1,7 +1,27 @@
 CloudPrism Technologies Offering Master's In Cloud Computing & DevOps Engineer (MCCDE) Course. MCCDE is a  Job Seeker's Friendly on Job Training model Program. You get trained in AWS and Azure Cloud Platforms and Market Demand DevOps Tools + add-on good to have skill courses + industry readiness soft skills. This is a Master course that makes you master in the Technologies and Corporate World. This MCCDE Training happens in real-time use cases and Architecture Based. You can take this program Completely.
 
 
-As part of MCCDE Course you learn following technologies.👋
+As part of MCCDE Course you will learn following technologies.👋
+
+<a href="https://aws.amazon.com" target="blank">
+<img align="center" src="/course_images/aws.webp" alt="AWS" height="40" width="40" />
+</a>
+<a href="https://www.docker.com/" target="blank">
+<img align="center" src="/course_images/Docker.webp" alt="Docker" height="40" width="40" />
+</a>
+<a href="https://www.jenkins.io" target="blank">
+<img align="center" src="/course_images/Jenkins.webp" alt="Jenkins" height="40" width="40" />
+</a>
+<a href="https://kubernetes.io" target="blank">
+<img align="center" src="/course_images/Kubernetes.png" alt="Kubernetes" height="40" width="40" />
+</a>
+<a href="https://azure.microsoft.com/en-in/" target="blank">
+<img align="center" src="/course_images/microsoft-azure.png" alt="Azure" height="40" width="40" />
+</a>
+
+
+
+
 
 <a href="https://aws.amazon.com" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" width="40" />

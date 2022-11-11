@@ -11,6 +11,39 @@ We are offering Following Cloud and DevOps Courses:
 -   Azure Kubernetes Service with Azure DevOps and Terraform
 -   Aws EKS - Elastic Kubernetes Service
 
+# Why you Learn in CloudPrism Technologies?
+
+### High Demand Skill Set:
+
+You will learn selected Primary Course and All Additional good to have tools and market demand skill set
+
+### Architecture Based Training:
+
+Learn By Doing, The Complete Course will teach using Cloud and DevOps architectures. You apply your knowledge immediately to complete Architecture.
+
+### Industry Readines:
+
+Learn additional Soft Skills to improve you Communication, Collebration and Presentation Skills.
+
+### Personal Mentoring:
+
+Work with our tutors and Domain experts any day during your training to unblock techenical doubts. Get your learning goals revised in a timely manner.
+
+### Timely Assessment:
+
+Go through a continuous feedback loop. Cheet Sheets, Mock Interviews, Weekly Tests and Practical Assignnments are part of your trainning program.
+
+### Industry Connect:
+
+Meet Industry experts on a regular basis and Clear your technical doubts and get carrier mentorship.
+
+### Instructor-Led Training:
+
+The Complete Course will deliver using Traditional Instructor-Led model but using Online mode.
+
+
+
+
 For more details, kindly mail info@cloudprismedu.com
 
 

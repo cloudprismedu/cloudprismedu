@@ -7,9 +7,11 @@ We are offering Following Cloud and DevOps Courses:
 -   Microsoft Azure Solutions Architect Expert
 -   Certified Kubernetes Administartion
 -   Azure DevOps
+-   DevOps Engineer
 -   Linux System Administration
--   Azure Kubernetes Service with Azure DevOps and Terraform
+-   Azure AKS - Azure Kubernetes Service
 -   Aws EKS - Elastic Kubernetes Service
+
 
 # Why you Learn in CloudPrism Technologies?
 

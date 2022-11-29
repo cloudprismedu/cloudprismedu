@@ -2,15 +2,18 @@ CloudPrism Technologies Offering wide range of Cloud Computing and DevOps Engine
 
 We are offering Following Cloud and DevOps Courses:
 
--   Master's In Cloud Computing & DevOps Engineer
--   Amazon AWS Solutions Architect
--   Microsoft Azure Solutions Architect Expert
--   Certified Kubernetes Administartion
--   Azure DevOps
--   DevOps Engineer
+-   Master's In Cloud Solutions Architect & DevOps Engineer
+-   Cloud Computing
+    -   Amazon AWS Solutions Architect
+    -   Microsoft Azure Solutions Architect Expert
+-   DevOps
+    -   Certified Kubernetes Administartion
+    -   Azure DevOps
+    -   AWS DevOps
+    -   DevOps Engineer
+    -   Azure AKS - Azure Kubernetes Service
+    -   Aws EKS - Elastic Kubernetes Service
 -   Linux System Administration
--   Azure AKS - Azure Kubernetes Service
--   Aws EKS - Elastic Kubernetes Service
 
 
 # Why you Learn in CloudPrism Technologies?

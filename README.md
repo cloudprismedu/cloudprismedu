@@ -93,3 +93,15 @@ As part of MCCDE Course you will learn following technologies.👋
 <a href="https://www.linux.org/" target="blank">
 <img align="center" src="/course_images/Tux.svg.png" alt="linux" height="50" width="50" />
 </a>
+
+# AWS Cloud Solutions Architect
+
+Visit Following Page for Details
+
+[aws-cloud=solutions-architect](../course-details/01-AWS-Cloud-Solutions-Architect.md)
+
+# AZure Solutions Architect Expert
+
+Visit Following Page for details
+
+[azure-solutions-architect-expert](../course-details/02-Azure-Solutions-Architect-Expert.md)

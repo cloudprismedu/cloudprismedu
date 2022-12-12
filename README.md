@@ -98,7 +98,7 @@ As part of MCCDE Course you will learn following technologies.👋
 
 Visit Following Page for Details
 
-[aws-cloud=solutions-architect](/course-details/01-AWS-Cloud-Solutions-Architect.md)
+[aws-cloud-solutions-architect](../course-details/01-AWS-Cloud-Solutions-Architect.md)
 
 # AZure Solutions Architect Expert
 

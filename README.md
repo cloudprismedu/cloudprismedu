@@ -104,4 +104,4 @@ Visit Following Page for Details
 
 Visit Following Page for details
 
-[azure-solutions-architect-expert](/course-details/02-Azure-Solutions-Architect-Expert.md)
+[azure-solutions-architect-expert](../course-details/02-Azure-Solutions-Architect-Expert.md)

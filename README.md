@@ -1,8 +1,7 @@
-CloudPrism Technologies Offering wide range of Cloud Computing and DevOps Engineer Courses under name of **"CloudPrismEdu"**. Our popular Course is **"Master's in Cloud Computing and DevOps Engineer"** Covering both Industry leading Cloud Computing (AWS and Azure) and Industry leading DevOps tools. MCCDE is a  Job Seeker's Friendly on Job Training model Program. You get trained in Popular Cloud Computing Platforms (Amazon AWS and Microsoft Azure) and Market Demand DevOps Tools (Kubernetes, Docker, Jenkins, TeamCity, Terraform, Ansible, Grafana, Prometheus, Loki, Maven, Git/GitHub, Helm and few more) + add-on good to have skill courses + industry readiness soft skills. This is a Master course that makes you master in Cloud Computing Technologies and DevOps Tools. This MCCDE Training happens in real-time use cases and Architecture Based. You can take this program remote Completely.
+CloudPrism Technologies Offering wide range of Cloud Computing and DevOps Engineer Courses under name of **"CloudPrismEdu"**. Our Cloud Computing and DevOps Courses are Covering both Industry leading Cloud Computing (AWS and Azure) and Industry leading DevOps tools. Our Courses are Job Seeker's Friendly on Job Training model Programs. You get trained in Popular Cloud Computing Platforms (Amazon AWS and Microsoft Azure) and Market Demand DevOps Tools (Kubernetes, Docker, Jenkins, TeamCity, Terraform, Ansible, Grafana, Prometheus, Loki, Maven, Git/GitHub, Helm and few more) + add-on good to have skill courses + industry readiness soft skills. All Trainings happens in real-time use cases and Architecture Based. You can take training remote Completely.
 
 We are offering Following Cloud and DevOps Courses:
 
--   Master's In Cloud Solutions Architect & DevOps Engineer
 -   Cloud Computing
     -   Amazon AWS Solutions Architect
     -   Microsoft Azure Solutions Architect Expert

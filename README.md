@@ -6,12 +6,15 @@ We are offering Following Cloud and DevOps Courses:
     -   Amazon AWS Solutions Architect
     -   Microsoft Azure Solutions Architect Expert
 -   DevOps
-    -   Certified Kubernetes Administartion
-    -   Azure DevOps
-    -   AWS DevOps
-    -   DevOps Engineer
-    -   Azure AKS - Azure Kubernetes Service
-    -   Aws EKS - Elastic Kubernetes Service
+    -   Mastering Kubernetes Administration
+    -   AzureOps: Mastering DevOps in Azure
+    -   AWS DevOps Engineer Pro
+    -   KubeEKS Pro: AWS EKS Kubernetes Administration
+    -   KubeAKS Pro: Azure AKS Kubernetes Administration
+    -   Jenkins CI/CD & Administration Mastery
+    -   Mastering GitLab Administration
+    -   Mastering GitHub Administration
+    -   Terraform Pro: Automating Cloud Infrastructure
 -   Linux System Administration
 
 
@@ -45,13 +48,13 @@ Meet Industry experts on a regular basis and Clear your technical doubts and get
 
 The Complete Course will deliver using Traditional Instructor-Led model but using Online mode.
 
-
+Our courses are designed to provide **"hands-on"**, **"industry-relevant"** training in the latest **"DevOps"**, **"Cloud, Kubernetes"**, and **"Infrastructure Automation"** technologies. Whether you’re an aspiring **"DevOps engineer"**, **"cloud architect"**, or **"Kubernetes administrator"**, our curriculum will equip you with the skills needed to excel in real-world scenarios.
 
 
 For more details, kindly mail info@cloudprismedu.com
 
 
-As part of MCCDE Course you will learn following technologies.👋
+Technologies You Will Learn: 👋
 
 <a href="https://aws.amazon.com" target="blank">
 <img align="center" src="/course_images/Amazon_Web_Services-Logo.wine.svg" alt="AWS" height="60" width="60" />
